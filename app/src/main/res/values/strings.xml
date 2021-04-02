@@ -11,10 +11,10 @@
     <string name="title_activity_japanese">Japanese Food</string>
     <string name="title_activity_maps">Map</string>
 
-    //cuisine strings
-    <string name="cuisine_activity_chinese">Chinese Food</string>
-    <string name="cuisine_activity_french">French Food</string>
-    <string name="cuisine_activity_greek">Greek Food</string>
-    <string name="cuisine_activity_italian">Italian Food</string>
-    <string name="cuisine_activity_japanese">Japanese Food</string>
+    //main strings
+    <string name="main_activity_chinese">Chinese Food</string>
+    <string name="main_activity_french">French Food</string>
+    <string name="main_activity_greek">Greek Food</string>
+    <string name="main_activity_italian">Italian Food</string>
+    <string name="main_activity_japanese">Japanese Food</string>
 </resources>

@@ -10,33 +10,33 @@
         android:layout_width="383dp"
         android:layout_height="93dp"
         android:onClick="switchActivities_onClick"
-        android:text="@string/cuisine_activity_chinese" />
+        android:text="@string/main_activity_chinese" />
 
     <Button
         android:id="@+id/switchToFrenchActivity"
         android:layout_width="383dp"
         android:layout_height="93dp"
         android:onClick="switchActivities_onClick"
-        android:text="@string/cuisine_activity_french" />
+        android:text="@string/main_activity_french" />
 
     <Button
         android:id="@+id/switchToGreekActivity"
         android:layout_width="383dp"
         android:layout_height="93dp"
         android:onClick="switchActivities_onClick"
-        android:text="@string/cuisine_activity_greek" />
+        android:text="@string/main_activity_greek" />
 
     <Button
         android:id="@+id/switchToItalianActivity"
         android:layout_width="383dp"
         android:layout_height="93dp"
         android:onClick="switchActivities_onClick"
-        android:text="@string/cuisine_activity_italian" />
+        android:text="@string/main_activity_italian" />
 
     <Button
         android:id="@+id/switchToJapaneseActivity"
         android:layout_width="383dp"
         android:layout_height="93dp"
         android:onClick="switchActivities_onClick"
-        android:text="@string/cuisine_activity_japanese" />
+        android:text="@string/main_activity_japanese" />
 </LinearLayout>
