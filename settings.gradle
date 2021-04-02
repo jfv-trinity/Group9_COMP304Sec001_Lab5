@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Group9_COMP304Sec001_Lab_Ex1.zip"
