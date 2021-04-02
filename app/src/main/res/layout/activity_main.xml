@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/switchToChineseActivity"
+        android:layout_width="383dp"
+        android:layout_height="93dp"
+        android:onClick="switchActivities_onClick"
+        android:text="@string/cuisine_activity_chinese" />
+
+    <Button
+        android:id="@+id/switchToFrenchActivity"
+        android:layout_width="383dp"
+        android:layout_height="93dp"
+        android:onClick="switchActivities_onClick"
+        android:text="@string/cuisine_activity_french" />
+
+    <Button
+        android:id="@+id/switchToGreekActivity"
+        android:layout_width="383dp"
+        android:layout_height="93dp"
+        android:onClick="switchActivities_onClick"
+        android:text="@string/cuisine_activity_greek" />
+
+    <Button
+        android:id="@+id/switchToItalianActivity"
+        android:layout_width="383dp"
+        android:layout_height="93dp"
+        android:onClick="switchActivities_onClick"
+        android:text="@string/cuisine_activity_italian" />
+
+    <Button
+        android:id="@+id/switchToJapaneseActivity"
+        android:layout_width="383dp"
+        android:layout_height="93dp"
+        android:onClick="switchActivities_onClick"
+        android:text="@string/cuisine_activity_japanese" />
+</LinearLayout>

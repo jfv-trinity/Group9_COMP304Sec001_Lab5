@@ -1,4 +1,20 @@
 <resources>
+    //app name string
     <string name="app_name">Group9_COMP304Sec001_Lab_Ex1.zip</string>
+    <string name="title_activity_main">Main Menu</string>
+
+    //activity title strings
+    <string name="title_activity_chinese">Chinese Food</string>
+    <string name="title_activity_french">French Food</string>
+    <string name="title_activity_greek">Greek Food</string>
+    <string name="title_activity_italian">Italian Food</string>
+    <string name="title_activity_japanese">Japanese Food</string>
     <string name="title_activity_maps">Map</string>
+
+    //cuisine strings
+    <string name="cuisine_activity_chinese">Chinese Food</string>
+    <string name="cuisine_activity_french">French Food</string>
+    <string name="cuisine_activity_greek">Greek Food</string>
+    <string name="cuisine_activity_italian">Italian Food</string>
+    <string name="cuisine_activity_japanese">Japanese Food</string>
 </resources>
